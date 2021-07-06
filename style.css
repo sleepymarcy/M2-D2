@@ -1,24 +1,13 @@
-.album-container{
-    
+.favourite{
+    background-image: url("flower_boy_full.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.album-cover{
-
+.info{
+    display: inline-block;
+    padding: 30px;
+    background-color: rgba(207, 211, 214, 0.548);
+    width: 30%;
+    height:   
 }
-
-.album-title{
-
-}
-
-.album-artist{
-
-}
-
-.album-genre{
-
-}
-
-.album-duration{
-
-}
-
